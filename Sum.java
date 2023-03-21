@@ -12,5 +12,6 @@ public class Sum {
             a = a/10;
         }
         System.out.println(n);
+	return;
     }
 }
